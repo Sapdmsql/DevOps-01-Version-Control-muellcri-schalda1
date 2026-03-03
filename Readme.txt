@@ -7,10 +7,10 @@ LNW 1 - GitHUb - muellcri , schalda1
 Schritt 0: Neues Repository mit Shared Collaborator erstellen.
 Schritt 1: muellcri erstellt Text.
 Schritt 2: schalda1 macht Änderung.
-Schritt 3: schalda1 erstellt Pull-Request.
-Schritt 4: muellcri zieht Änderungen ein.
+Schritt 3: muellcri macht Pull-Request.
 
-Schritt 5: Müllcri und Schalda1 machen Änderungen in gleicher Zeile -> Konflikt wird aufgelöst 
+
+Schritt 4: Müllcri und Schalda1 machen Änderungen in gleicher Zeile -> Konflikt wird aufgelöst 
 -> merge
 
-Schritt 6: Neuer Branch erstellen -> merge auf main
+Schritt 5: Neuer Branch erstellen -> merge auf main
