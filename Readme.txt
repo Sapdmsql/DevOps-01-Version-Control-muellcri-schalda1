@@ -1,8 +1,8 @@
 DevOps FS 26 3.3.26
 
 
-
 LNW 1 - GitHUb - muellcri , schalda1
+
 
 Schritt 0: Neues Repository mit Shared Collaborator erstellen.
 Schritt 1: muellcri erstellt Text.
