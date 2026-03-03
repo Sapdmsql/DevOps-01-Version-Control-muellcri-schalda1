@@ -13,3 +13,6 @@ Schritt 4: muellcri und schalda1 machen Änderungen in gleicher Zeile -> Konflik
 -> merge Änderung schalda1
 
 Schritt 5: Neuer Branch erstellen -> merge auf main
+
+
+Änderung schalda1
