@@ -10,6 +10,6 @@ Schritt 2: schalda1 macht Pull-Request und Änderung. Änderung schalda1
 Schritt 3: muellcri macht Pull-Request.
 
 Schritt 4: muellcri und schalda1 machen Änderungen in gleicher Zeile -> Konflikt wird aufgelöst 
--> merge 
+-> merge xxxx
 
 Schritt 5: Neuer Branch erstellen -> merge auf main
